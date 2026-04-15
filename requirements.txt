@@ -1,0 +1,2 @@
+# Sistema CRUD - No requiere dependencias externas&#10;# Solo usa librerías estándar de Python (os, re, datetime)&#10;&#10;# Instalación:&#10;# pip install -r requirements.txt  # No instala nada
+
